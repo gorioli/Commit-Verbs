@@ -9,7 +9,7 @@ Commit verbs (that cover 98% of all use cases)
 - **Fix** crazy bug  
 
 For JIRA support it should be in the format: 
-```[FKA-XXXX] Add functionality xyz```
+```[FKA-XXXX] ***Add*** functionality xyz```
   
 ## Some additional notes _(that can help to follow the proposal described in the link above)_  
 
